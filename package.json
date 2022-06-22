@@ -1,0 +1,21 @@
+{
+  "name": "react-patika-homework1",
+  "version": "1.0.0",
+  "description": "React Patika First Homework About Async Function ",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gh repo clone furkanislek/ReactAsynFunctionPatika"
+  },
+  "author": "Furkan Akif ISLEK",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.6"
+  }
+}
